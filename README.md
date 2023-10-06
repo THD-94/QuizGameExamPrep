@@ -1,1 +1,3 @@
-Hei på deg# QuizGameExamPrep
+# QuizGameExamPrep
+
+OOP with Java. 
